@@ -2,7 +2,7 @@
 
   Modified By: Felipe, to Accept Translation 
     If you want to keep up with the original version, and I didn't updated it yet, 
-    just add the object "simpleWeather" and get the code from lines 59 to 67 and put at the last version.
+    just add the object "simpleWeather" and get the code from lines 59 to 67.
 */
 var simpleWeather = {};
 
