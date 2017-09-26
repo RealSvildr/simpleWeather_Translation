@@ -7,4 +7,4 @@ http://simpleweatherjs.com/
 https://github.com/monkeecreate/jquery.simpleWeather
 
 
-I just have made the translation possible.
+I just have made the translation possible, you don't need to download the original this one is already have the original content.
